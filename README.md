@@ -1,2 +1,2 @@
 # processing
-Exercices made with https://processing.org/
+Exercices made using https://processing.org/ programming language
